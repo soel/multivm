@@ -1,0 +1,9 @@
+{
+  "environment": "development",
+  "run_list": [
+    "role[web]"
+  ],
+  "automatic": {
+    "ipaddress": "va1"
+  }
+}
